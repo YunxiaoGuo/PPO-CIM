@@ -3,6 +3,7 @@ The pytorch implementation of Proximal Policy Optimization with Correntropy-Indu
 
 ## Citation
 If you use the framework or part of the work mentioned in the paper, please cite:
+```
 @article{abs-2110-10522,
   author       = {Yunxiao Guo and
                   Han Long and
@@ -19,3 +20,4 @@ If you use the framework or part of the work mentioned in the paper, please cite
   eprinttype    = {arXiv},
   eprint       = {2110.10522}
 }
+```
